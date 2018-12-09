@@ -1,6 +1,6 @@
 Chicago Fire, CHI
 END_PLAYERS
-Denver Mountaineers, DEN
+Cleveland Lakers, CLE
 END_PLAYERS
 Detroit Wildcats, DET
 END_PLAYERS
@@ -22,7 +22,7 @@ Houston Oilers, HOU
 END_PLAYERS
 Miami Hurricanes, MIA
 END_PLAYERS
-Las Vegas Aces, LV
+Denver Mountaineers, DEN
 END_PLAYERS
 Los Angeles Raiders, LA
 END_PLAYERS
