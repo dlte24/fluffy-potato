@@ -1,10 +1,10 @@
 Chicago Fire, CHI
 END_PLAYERS
+Denver Mountaineers, DEN
+END_PLAYERS
 Detroit Wildcats, DET
 END_PLAYERS
-Minnesota Norsemen, MIN
-END_PLAYERS
-Ohio Buckeyes, OH
+Minneapolis Norsemen, MIN
 ENd_PLAYERS
 Boston Beaneaters, BOS
 END_PLAYERS
@@ -22,7 +22,7 @@ Houston Oilers, HOU
 END_PLAYERS
 Miami Hurricanes, MIA
 END_PLAYERS
-Denver Mountaineers, DEN
+Las Vegas Aces, LV
 END_PLAYERS
 Los Angeles Raiders, LA
 END_PLAYERS
