@@ -10,13 +10,13 @@ Penn State Nittany Lions, PSU
 END_PLAYERS
 Pittsburgh Panthers, PIT
 END_PLAYERS
-Virginia Tech Hookies, VT
+Virginia Tech Hokies, VT
 END_PLAYERS
 West Virginia Mountaineers, WVU
 END_PLAYERS
 Colorado Buffaloes, COL
 END_PLAYERS
-Iowa Hawkeyes, IWA
+Iowa Hawkeyes, IoWA
 END_PLAYERS
 Nebraska Cornhuskers, NEB
 END_PLAYERS
