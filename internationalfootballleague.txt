@@ -1,0 +1,64 @@
+Chicago Fire, CHI
+END_PLAYERS
+Cleveland Lakers, CLE
+END_PLAYERS
+Detroit Wildcats, DET
+END_PLAYERS
+Minneapolis Norsemen, MIN
+END_PLAYERS
+Boston Beaneaters, BOS
+END_PLAYERS
+New York Titans, NY
+END_PLAYERS
+Philadelphia Warriors, PHI
+END_PLAYERS
+Washington Senators, WAS
+END_PLAYERS
+Atlanta Flames, ATL
+END_PLAYERS
+Dallas Texans, DAL
+END_PLAYERS
+Houston Oilers, HOU
+END_PLAYERS
+Miami Hurricanes, MIA
+END_PLAYERS
+Denver Mountaineers, DEN
+END_PLAYERS
+Los Angeles Raiders, LA
+END_PLAYERS
+San Francisco Explorers, SF
+END_PLAYERS
+Seattle Metropolitans, SEA
+END_PLAYERS
+Berlin Eagles, BER
+END_PLAYERS
+Moscow Mules, MOS
+END_PLAYERS
+London Reign, LDN
+END_PLAYERS
+Paris Rebels, PAR
+END_PLAYERS
+Beijing Tigers, BEI
+END_PLAYERS
+Mumbai Bengals, MUM
+END_PLAYERS
+Seoul Thunders, SEO
+END_PLAYERS
+Tokyo Kaiju, TKO
+END_PLAYERS
+Cairo Pharohs, CAI
+END_PLAYERS
+Lagos Lions, LGS
+END_PLAYERS
+Melbourne Rangers, MEL
+END_PLAYERS
+Sydney Sharks, SYD
+END_PLAYERS
+Mexico City Aztecs, MEX
+END_PLAYERS
+Rio de Janeiro Mariners, RIO
+END_PLAYERS
+Sao Paulo Saints, SPL
+END_PLAYERS
+Toronto Argonauts, TOR
+END_PLAYERS
