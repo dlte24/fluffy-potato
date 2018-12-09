@@ -16,7 +16,7 @@ West Virginia Mountaineers, WVU
 END_PLAYERS
 Colorado Buffaloes, COL
 END_PLAYERS
-Iowa Hawkeyes, IoWA
+Iowa Hawkeyes, IWA
 END_PLAYERS
 Nebraska Cornhuskers, NEB
 END_PLAYERS
