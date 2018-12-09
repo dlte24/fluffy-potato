@@ -11,7 +11,7 @@ WR,Webster Slaughter,24,2012,94,85,87,86,87,94,6,7
 WR,Ozzie Newsome,20,2016,88,78,85,68,76,96,1.2,10
 END_PLAYERS
 Minneapolis Norsemen, MIN
-ENd_PLAYERS
+END_PLAYERS
 Boston Beaneaters, BOS
 END_PLAYERS
 New York Titans, NY
