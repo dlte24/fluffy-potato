@@ -1,22 +1,10 @@
 Boston Bruins, BOS
 END_PLAYERS
-Buffalo Sabres, BUF
-END_PLAYERS
 Detroit Red Wings, DET
-END_PLAYERS
-Florida Panthers, FLA
 END_PLAYERS
 Montreal Canadiens, MTL
 END_PLAYERS
-Ottawa Senators, OTT
-END_PLAYERS
-Tampa Bay Lightning, TBL
-END_PLAYERS
 Toronto Maple Leafs, TOR
-END_PLAYERS
-Carolina Hurricanes, CAR
-END_PLAYERS
-Columbus Blue Jackets, CBJ
 END_PLAYERS
 New Jersey Devils, NJD
 END_PLAYERS
@@ -26,17 +14,31 @@ New York Rangers, NYR
 END_PLAYERS
 Philadelphia Flyers, PHI
 END_PLAYERS
+Buffalo Sabres, BUF
+END_PLAYERS
+Florida Panthers, FLA
+END_PLAYERS
+Ottawa Senators, OTT
+END_PLAYERS
+Tampa Bay Lightning, TBL
+END_PLAYERS
+Carolina Hurricanes, CAR
+END_PLAYERS
+Columbus Blue Jackets, CBJ
+END_PLAYERS
 Pittsburgh Penguins	PIT
 END_PLAYERS
 Washington Capitals, WAS
 END_PLAYERS
-Arizona Coyotes, ARI
+Calgary Flames, CGY
+END_PLAYERS
+Edmonton Oilers, EDM
+END_PLAYERS
+Seattle Totems, SEA
+END_PLAYERS
+Vancouver Canucks, VAN
 END_PLAYERS
 Chicago Blackhawks, CHI
-END_PLAYERS
-Colorado Avalanche, COL
-END_PLAYERS
-Dallas Stars, DAL
 END_PLAYERS
 Minnesota Wild, MIN
 END_PLAYERS
@@ -44,21 +46,19 @@ Nashville Predators, NAS
 END_PLAYERS
 St Louis Blues, STL
 END_PLAYERS
+Arizona Coyotes, ARI
+END_PLAYERS
+Colorado Avalanche, COL
+END_PLAYERS
+Dallas Stars, DAL
+END_PLAYERS
 Winnipeg Jets, WPG
 END_PLAYERS
 Anaheim Ducks, ANA
-END_PLAYERS
-Calgary Flames, CGY
-END_PLAYERS
-Edmonton Oilers, EDM
 END_PLAYERS
 Los Angeles Kings, LAK
 END_PLAYERS
 San Jose Sharks, SJS
 END_PLAYERS
-Seattle Totems, SEA
-END_PLAYERS
-Vancouver Canucks, VAN
-END_PLAYERS
-Vegas Golden Knights
+Vegas Golden Knights, VGK
 END_PLAYERS
