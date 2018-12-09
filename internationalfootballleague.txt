@@ -1,11 +1,11 @@
 Chicago Fire, CHI
 END_PLAYERS
-Cleveland Lakers, CLE
-END_PLAYERS
 Detroit Wildcats, DET
 END_PLAYERS
-Minneapolis Norsemen, MIN
+Minnesota Norsemen, MIN
 END_PLAYERS
+Ohio Buckeyes, OH
+ENd_PLAYERS
 Boston Beaneaters, BOS
 END_PLAYERS
 New York Titans, NY
