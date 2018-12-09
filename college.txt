@@ -1,10 +1,64 @@
 Michigan Wolverines, MI
 END_PLAYERS
+Michigan State Spartans, MSU
+END_PLAYERS
 Notre Dame Fighting Irish, ND
 END_PLAYERS
 Ohio State Buckeyes, OSU
 END_PLAYERS
 Penn State Nittany Lions, PSU
 END_PLAYERS
-
+Pittsburgh Panthers, PIT
+END_PLAYERS
+Virginia Tech Hookies, VT
+END_PLAYERS
+West Virginia Mountaineers, WVU
+END_PLAYERS
+Colorado Buffaloes, COL
+END_PLAYERS
+Iowa Hawkeyes, IWA
+END_PLAYERS
+Nebraska Cornhuskers, NEB
+END_PLAYERS
+Wisconsin Badgers, WSC
+END_PLAYERS
+California Golden Bears, CAL
+END_PLAYERS
+Oregon Ducks, ORE
+END_PLAYERS
+Stanford Cardinal, SFD
+END_PLAYERS
+Washington Huskies, WAS
+END_PLAYERS
+Alabama Crimson Tide, ALA
+END_PLAYERS
+Auburn Tigers, AUB
+END_PLAYERS
+LSU Tigers, LSU
+END_PLAYERS
+Tennessee Volunteers, TEN
+END_PLAYERS
+Florida Gators, FLA
+END_PLAYERS
+Florida State Seminoles, FSU
+END_PLAYERS
+Clemson Tigers, CLM
+END_PLAYERS
+Georgia Bulldogs, UGA
+END_PLAYERS
+Oklahoma Sooners, OKL
+END_PLAYERS
+Texas Longhorns, TEX
+END_PLAYERS
+Texas A&M Aggies, TAM
+END_PLAYERS
+TCU Horned Frogs, TCU
+END_PLAYERS
+Arizona Wildcats, ARZ
+END_PLAYERS
+BYU Cougars, BYU
+END_PLAYERS
+UCLA Bruins, UCL
+END_PLAYERS
+USC Trojans, USC
 END_PLAYERS
