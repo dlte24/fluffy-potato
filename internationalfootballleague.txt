@@ -61,4 +61,4 @@ END_PLAYERS
 Sao Paulo Saints, SPL
 END_PLAYERS
 Toronto Argonauts, TOR
-END_PLAYERS
+internationalfootballleague.txt
