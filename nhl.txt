@@ -26,7 +26,7 @@ Carolina Hurricanes, CAR
 END_PLAYERS
 Columbus Blue Jackets, CBJ
 END_PLAYERS
-Pittsburgh Penguins	PIT
+Pittsburgh Penguins, PIT
 END_PLAYERS
 Washington Capitals, WAS
 END_PLAYERS
