@@ -3,7 +3,6 @@ END_PLAYERS
 Michigan State Spartans, MSU
 END_PLAYERS
 Notre Dame Fighting Irish, ND
-ferfefee
 END_PLAYERS
 Ohio State Buckeyes, OSU
 END_PLAYERS
