@@ -1,1 +1,10 @@
+Michigan Wolverines, MI
+END_PLAYERS
+Notre Dame Fighting Irish, ND
+END_PLAYERS
+Ohio State Buckeyes, OSU
+END_PLAYERS
+Penn State Nittany Lions, PSU
+END_PLAYERS
+
 END_PLAYERS
